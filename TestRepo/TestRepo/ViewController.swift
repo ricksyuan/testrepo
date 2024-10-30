@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// change 12
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         // change5
         // change6
         // change7
+        // change9
+        // change10
     }
 
 
